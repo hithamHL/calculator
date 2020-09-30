@@ -8,5 +8,6 @@ A new Flutter application.
 This project is a starting point for a Flutter application.
 
 ## Main Screen
-assets/calculator.jpg
+![alt text](https://github.com/hithamHL/calculator/blob/master/assets/calculator.jpg?raw=true)
+
 
